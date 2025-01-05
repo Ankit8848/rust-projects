@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\rust\rust\ projects\rust-projects\Basics\write-json-in-rust\target\debug\write-json-in-rust.exe: C:\Users\Admin\Desktop\rust\rust\ projects\rust-projects\Basics\write-json-in-rust\src\main.rs
