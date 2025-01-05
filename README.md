@@ -1,2 +1,2 @@
 # rust-projects
-basics, intermediate and advance projects in rust language
+basics, intermediate and advanced projects in rust language
