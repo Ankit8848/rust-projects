@@ -34,7 +34,7 @@ fn main() {
     let parsed = read_json_typed(json);
 
     println!(
-        "\n\nThe title of the first paragraph is: {}",
+        "\n\nThe title of the second paragraph is: {}",
         parsed.paragraph[1].title
     );
 }
