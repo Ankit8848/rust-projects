@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\rust\rust\ projects\rust-projects\Basics\read-json-in-rust\target\debug\read-json-in-rust.exe: C:\Users\Admin\Desktop\rust\rust\ projects\rust-projects\Basics\read-json-in-rust\src\main.rs
